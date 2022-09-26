@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "nombre": "Medias",
+    "cantidad": 1
+  },
+  {
+    "id": "2",
+    "nombre": "Caramelos",
+    "cantidad": 2
+  },
+  {
+    "id": "3",
+    "nombre": "Viltel Tone",
+    "cantidad": 4
+  }
+]
