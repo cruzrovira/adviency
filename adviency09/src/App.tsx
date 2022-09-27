@@ -24,21 +24,25 @@ type typeRegalo = {
   cantidad: number
 }
 function App() {
-  const [regalos, setRegalos] = useState<typeRegalo[]>(() => {
-    const localRegalos = localStorage.getItem("regalos")
-    if (localRegalos) {
-      return JSON.parse(localRegalos)
-    } else {
-      localStorage.setItem("regalos", JSON.stringify(datos))
-      return datos
-    }
-  })
+  const [regalos, setRegalos] = useState<typeRegalo[]>([])
 
   const [regalo, setRegalo] = useState<typeRegalo>({
     id: "",
     nombre: "",
     cantidad: 1,
   })
+
+  const loadData = () => {
+    const localRegalos = localStorage.getItem("regalos")
+    if (localRegalos) {
+      setRegalos(JSON.parse(localRegalos))
+    } else {
+      setRegalos(datos)
+    }
+  }
+  useEffect(() => {
+    loadData()
+  }, [])
 
   useEffect(() => {
     localStorage.setItem("regalos", JSON.stringify(regalos))
