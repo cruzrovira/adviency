@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "nombre": "Medias",
+    "cantidad": 1,
+    "image": "https://picsum.photos/60/60"
+  },
+  {
+    "id": "2",
+    "nombre": "Caramelos",
+    "cantidad": 2,
+    "image": "https://picsum.photos/60/60"
+  },
+  {
+    "id": "3",
+    "nombre": "Viltel Tone",
+    "cantidad": 4,
+    "image": "https://picsum.photos/60/60"
+  }
+]

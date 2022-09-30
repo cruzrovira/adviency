@@ -32,5 +32,5 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
 - [x] Día 9: La gente está triste por que al cerrar la aplicación pierde todos sus regalos 😢. Usemos `localStorage` para guardar los regalos en el dispositivo del usuario y cargarlos cuando vuelve!
       ![desafio 2 ](./doc/img9.png)
 
--[] Día 10: Las palabras dicen mucho pero las imágenes más! Agreguemos un campo donde podamos pegar un link de imágen para cada regalo y mostremoslo en la lista.
-![desafio 2 ](./doc/img10.png)
+- [x] Día 10: Las palabras dicen mucho pero las imágenes más! Agreguemos un campo donde podamos pegar un link de imágen para cada regalo y mostremoslo en la lista.
+      ![desafio 2 ](./doc/img10.png)
