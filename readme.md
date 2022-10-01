@@ -30,7 +30,10 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
       ![desafio 8 ](./doc/img8.png)
 
 - [x] Día 9: La gente está triste por que al cerrar la aplicación pierde todos sus regalos 😢. Usemos `localStorage` para guardar los regalos en el dispositivo del usuario y cargarlos cuando vuelve!
-      ![desafio 2 ](./doc/img9.png)
+      ![desafio 9 ](./doc/img9.png)
 
 - [x] Día 10: Las palabras dicen mucho pero las imágenes más! Agreguemos un campo donde podamos pegar un link de imágen para cada regalo y mostremoslo en la lista.
-      ![desafio 2 ](./doc/img10.png)
+      ![desafio 10 ](./doc/img10.png)
+- [x] Día 11: Nuestro formulario tiene muchas cosas y molesta a la vista de los usuarios, pasemoslo a un modal / drawer o lo que quieras y pongamos un botón de "Agregar regalo" que lo muestre.
+      ![desafio 11 ](./doc/img11.png)
+      ![desafio 11 ](./doc/img12.png)
