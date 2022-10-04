@@ -37,3 +37,5 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
 - [x] Día 11: Nuestro formulario tiene muchas cosas y molesta a la vista de los usuarios, pasemoslo a un modal / drawer o lo que quieras y pongamos un botón de "Agregar regalo" que lo muestre.
       ![desafio 11 ](./doc/img11.png)
       ![desafio 11 ](./doc/img12.png)
+- [x] Día 12: La gente no recuerda que regalo corresponde a cada quien, agreguemos un campo para destinatario y mostremoslo.
+      ![desafio 12 ](./doc/img13.png)
