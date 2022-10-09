@@ -1,4 +1,4 @@
-type typeRegalo = {
+type regalo = {
   id: string
   nombre: string
   cantidad: number
@@ -6,4 +6,4 @@ type typeRegalo = {
   destinatario: string
 }
 
-export type { typeRegalo }
+export type { regalo }

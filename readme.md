@@ -39,3 +39,12 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
       ![desafio 11 ](./doc/img12.png)
 - [x] Día 12: La gente no recuerda que regalo corresponde a cada quien, agreguemos un campo para destinatario y mostremoslo.
       ![desafio 12 ](./doc/img13.png)
+- [x] Día 13: Nuestros usuarios se ponen muy contentos y se equivocan al cargar regalos, agreguemos un botón editar que nos permita cambiar regalos ya agregados.
+
+(Se va poniendo difícil así que no aflojen y pregunten!)
+![desafio 13 ](./doc/img14.png)
+![desafio 13 ](./doc/img15.png)
+
+- [ ] Día 14: Nuestra aplicación no es muy accesible, hagamos que podamos agregar, borrar y editar regalos sin tocar el mouse.
+      ![desafio 14 ](./doc/img16.png)
+      ![desafio 14 ](./doc/img17.png)
