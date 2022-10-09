@@ -20,7 +20,7 @@ const ListRegalos: React.FC<props> = ({ regalos, deleteRegalo }) => {
       {regalos.map(item => (
         <ListItem key={item.id}>
           <HStack justifyContent={"space-between"}>
-            <HStack>
+            <HStack spacing={2}>
               <Image
                 fallbackSrc="https://via.placeholder.com/60"
                 h="60px"
@@ -31,6 +31,7 @@ const ListRegalos: React.FC<props> = ({ regalos, deleteRegalo }) => {
                 <Text fontWeight={"bold"}>{item.nombre}</Text>
                 <Text fontSize="small">{item.destinatario}</Text>
               </VStack>
+              <Text>X{item.cantidad}</Text>
             </HStack>
             <Button
               colorScheme={"red"}

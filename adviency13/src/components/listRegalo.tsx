@@ -40,6 +40,7 @@ const ListRegalo: React.FC<props> = ({
                 <Text fontWeight={"bold"}>{item.nombre}</Text>
                 <Text as={"span"}>{item.destinatario}</Text>
               </VStack>
+              <Text as={"span"}>x{item.cantidad}</Text>
             </HStack>
             <HStack>
               <Button
