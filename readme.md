@@ -45,6 +45,10 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
 ![desafio 13 ](./doc/img14.png)
 ![desafio 13 ](./doc/img15.png)
 
-- [ ] Día 14: Nuestra aplicación no es muy accesible, hagamos que podamos agregar, borrar y editar regalos sin tocar el mouse.
+- [x] Día 14: Nuestra aplicación no es muy accesible, hagamos que podamos agregar, borrar y editar regalos sin tocar el mouse.
+      -este punto sea solucionado desde adviency03
       ![desafio 14 ](./doc/img16.png)
       ![desafio 14 ](./doc/img17.png)
+- [x] Día 15: Pronto tendremos que preparar una api para nuestra aplicación, preparemos un método para traernos nuestros regalos que use promesas o async await.
+      ![desafio 15 ](./doc/img18.png)
+      ![desafio 15 ](./doc/img19.png)
