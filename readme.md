@@ -52,3 +52,26 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
 - [x] Día 15: Pronto tendremos que preparar una api para nuestra aplicación, preparemos un método para traernos nuestros regalos que use promesas o async await.
       ![desafio 15 ](./doc/img18.png)
       ![desafio 15 ](./doc/img19.png)
+- [ ] Día 16: La gente está perdiendo la creatividad y necesita una ayuda, agreguemos un botón para obtener un regalo aleatorio para el campo "regalo", podés tener una lista fija de regalos, no es necesario que sean generados.
+      ![desafio 16 ](./doc/img20.png)
+- [ ] Día 17: Nos olvidamos de agregar un campo de precio para nuestros regalos! Aseguremosnos de mostrar el precio correcto tomando en cuenta la cantidad de unidades del regalo.
+      ![desafio 17 ](./doc/img21.png)
+      ![desafio 17 ](./doc/img22.png)
+- [ ] Día 18: La gente agrega muchos regalos y necesita saber el total de lo que gastaría, pongamos el total.
+      ![desafio 18 ](./doc/img23.png)
+- [ ] Día 19: La gente quiere hacer el mismo regalo pero a diferentes personas o en diferentes cantidades, agreguemos un botón de duplicar que abra el modal precargado.
+      ![desafio 19 ](./doc/img24.png)
+      ![desafio 19 ](./doc/img25.png)
+- [ ] Día 20: Queremos tener una lista de regalos para ir a comprar pero no queremos que tenga los botones o precios, agreguemos un botón de previsualizar que nos abra un modal.
+      ![desafio 20 ](./doc/img26.png)
+      ![desafio 20 ](./doc/img27.png)
+- [ ] Día 21: Fuimos a comprar los regalos pero no teniamos datos en el celular, no queremos que le pase a alguien más, agreguemos un botón de imprimir a esa lista.
+      ![desafio 21 ](./doc/img28.png)
+      ![desafio 21 ](./doc/img29.png)
+- [ ] Día 22: Levantemos el espíritu navideño agregando un sonido navideño de fondo. No tan alto, tiene que estar deshabilitado por defecto y el usuario puede habilitarlo.
+      ![desafio 22 ](./doc/img30.png)
+- [ ] Día 23: Ya casi es navidad! Agreguemos unos copitos de nieve a nuestra app para darle el último toque navideño ❄
+      ![desafio 23 ](./doc/img31.png)
+      ![desafio 23 ](./doc/img32.png)
+- [ ] Día 24: Creo que después de 23 días de trabajar te mereces este día libre, felicitaciones por todo lo que hiciste y disfrutá de las fiestas 🙌
+      ![desafio 24 ](./doc/img33.png)
