@@ -1,5 +1,5 @@
 {
-  "name": "adviency12",
+  "name": "adviency17",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@chakra-ui/react": "2.3.4",
+    "@chakra-ui/react": "2.3.5",
     "@emotion/react": "11.10.4",
     "@emotion/styled": "11.10.4",
     "framer-motion": "6.5.1",
