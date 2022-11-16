@@ -52,9 +52,9 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
 - [x] Día 15: Pronto tendremos que preparar una api para nuestra aplicación, preparemos un método para traernos nuestros regalos que use promesas o async await.
       ![desafio 15 ](./doc/img18.png)
       ![desafio 15 ](./doc/img19.png)
-- [ ] Día 16: La gente está perdiendo la creatividad y necesita una ayuda, agreguemos un botón para obtener un regalo aleatorio para el campo "regalo", podés tener una lista fija de regalos, no es necesario que sean generados.
+- [x] Día 16: La gente está perdiendo la creatividad y necesita una ayuda, agreguemos un botón para obtener un regalo aleatorio para el campo "regalo", podés tener una lista fija de regalos, no es necesario que sean generados.
       ![desafio 16 ](./doc/img20.png)
-- [ ] Día 17: Nos olvidamos de agregar un campo de precio para nuestros regalos! Aseguremosnos de mostrar el precio correcto tomando en cuenta la cantidad de unidades del regalo.
+- [x] Día 17: Nos olvidamos de agregar un campo de precio para nuestros regalos! Aseguremosnos de mostrar el precio correcto tomando en cuenta la cantidad de unidades del regalo.
       ![desafio 17 ](./doc/img21.png)
       ![desafio 17 ](./doc/img22.png)
 - [ ] Día 18: La gente agrega muchos regalos y necesita saber el total de lo que gastaría, pongamos el total.

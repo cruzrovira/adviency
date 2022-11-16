@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "nombre": "Medias",
+    "cantidad": 1,
+    "image": "https://picsum.photos/60/60",
+    "destinatario": "Oscar",
+    "precio": 5
+  },
+  {
+    "id": "2",
+    "nombre": "Caramelos",
+    "cantidad": 2,
+    "image": "https://picsum.photos/60/60",
+    "destinatario": "Carlos",
+    "precio": 10
+  },
+  {
+    "id": "3",
+    "nombre": "Viltel Tone",
+    "cantidad": 4,
+    "image": "https://picsum.photos/60/60",
+    "destinatario": "Elsy",
+    "precio": 10
+  }
+]
