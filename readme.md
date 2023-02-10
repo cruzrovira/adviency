@@ -57,9 +57,9 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
 - [x] Día 17: Nos olvidamos de agregar un campo de precio para nuestros regalos! Aseguremosnos de mostrar el precio correcto tomando en cuenta la cantidad de unidades del regalo.
       ![desafio 17 ](./doc/img21.png)
       ![desafio 17 ](./doc/img22.png)
-- [ ] Día 18: La gente agrega muchos regalos y necesita saber el total de lo que gastaría, pongamos el total.
+- [x] Día 18: La gente agrega muchos regalos y necesita saber el total de lo que gastaría, pongamos el total.
       ![desafio 18 ](./doc/img23.png)
-- [ ] Día 19: La gente quiere hacer el mismo regalo pero a diferentes personas o en diferentes cantidades, agreguemos un botón de duplicar que abra el modal precargado.
+- [x] Día 19: La gente quiere hacer el mismo regalo pero a diferentes personas o en diferentes cantidades, agreguemos un botón de duplicar que abra el modal precargado.
       ![desafio 19 ](./doc/img24.png)
       ![desafio 19 ](./doc/img25.png)
 - [ ] Día 20: Queremos tener una lista de regalos para ir a comprar pero no queremos que tenga los botones o precios, agreguemos un botón de previsualizar que nos abra un modal.
