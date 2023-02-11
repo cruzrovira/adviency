@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap");
+
+@media print {
+  .print {
+    visibility: hidden;
+  }
+  .print-modal {
+    box-shadow: none !important;
+  }
+}
