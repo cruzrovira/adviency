@@ -62,7 +62,7 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
 - [x] Día 19: La gente quiere hacer el mismo regalo pero a diferentes personas o en diferentes cantidades, agreguemos un botón de duplicar que abra el modal precargado.
       ![desafio 19 ](./doc/img24.png)
       ![desafio 19 ](./doc/img25.png)
-- [ ] Día 20: Queremos tener una lista de regalos para ir a comprar pero no queremos que tenga los botones o precios, agreguemos un botón de previsualizar que nos abra un modal.
+- [x] Día 20: Queremos tener una lista de regalos para ir a comprar pero no queremos que tenga los botones o precios, agreguemos un botón de previsualizar que nos abra un modal.
       ![desafio 20 ](./doc/img26.png)
       ![desafio 20 ](./doc/img27.png)
 - [ ] Día 21: Fuimos a comprar los regalos pero no teniamos datos en el celular, no queremos que le pase a alguien más, agreguemos un botón de imprimir a esa lista.

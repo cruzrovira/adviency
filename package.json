@@ -21,7 +21,8 @@
     "adviency16",
     "adviency17",
     "adviency18",
-    "adviency19"
+    "adviency19",
+    "adviency20"
   ],
   "scripts": {
     "adviency01:dev": "npm run dev --workspace=adviency01",
@@ -74,7 +75,10 @@
     "adviency18:preview": "npm run preview --workspace=adviency18",
     "adviency19:dev": "npm run dev --workspace=adviency19",
     "adviency19:build": "npm run build --workspace=adviency19",
-    "adviency19:preview": "npm run preview --workspace=adviency19"
+    "adviency19:preview": "npm run preview --workspace=adviency19",
+    "adviency20:dev": "npm run dev --workspace=adviency20",
+    "adviency20:build": "npm run build --workspace=adviency20",
+    "adviency20:preview": "npm run preview --workspace=adviency20"
   },
   "keywords": [],
   "author": "",
