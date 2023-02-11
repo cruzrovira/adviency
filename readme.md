@@ -65,7 +65,7 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
 - [x] Día 20: Queremos tener una lista de regalos para ir a comprar pero no queremos que tenga los botones o precios, agreguemos un botón de previsualizar que nos abra un modal.
       ![desafio 20 ](./doc/img26.png)
       ![desafio 20 ](./doc/img27.png)
-- [ ] Día 21: Fuimos a comprar los regalos pero no teniamos datos en el celular, no queremos que le pase a alguien más, agreguemos un botón de imprimir a esa lista.
+- [x] Día 21: Fuimos a comprar los regalos pero no teniamos datos en el celular, no queremos que le pase a alguien más, agreguemos un botón de imprimir a esa lista.
       ![desafio 21 ](./doc/img28.png)
       ![desafio 21 ](./doc/img29.png)
 - [ ] Día 22: Levantemos el espíritu navideño agregando un sonido navideño de fondo. No tan alto, tiene que estar deshabilitado por defecto y el usuario puede habilitarlo.
