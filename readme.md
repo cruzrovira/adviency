@@ -70,8 +70,8 @@ es una proyecto que a lo largo de 24 dias, habra que ir agregando una funcionavi
       ![desafio 21 ](./doc/img29.png)
 - [x] Día 22: Levantemos el espíritu navideño agregando un sonido navideño de fondo. No tan alto, tiene que estar deshabilitado por defecto y el usuario puede habilitarlo.
       ![desafio 22 ](./doc/img30.png)
-- [ ] Día 23: Ya casi es navidad! Agreguemos unos copitos de nieve a nuestra app para darle el último toque navideño ❄
+- [x] Día 23: Ya casi es navidad! Agreguemos unos copitos de nieve a nuestra app para darle el último toque navideño ❄
       ![desafio 23 ](./doc/img31.png)
       ![desafio 23 ](./doc/img32.png)
-- [ ] Día 24: Creo que después de 23 días de trabajar te mereces este día libre, felicitaciones por todo lo que hiciste y disfrutá de las fiestas 🙌
+- [x] Día 24: Creo que después de 23 días de trabajar te mereces este día libre, felicitaciones por todo lo que hiciste y disfrutá de las fiestas 🙌
       ![desafio 24 ](./doc/img33.png)
