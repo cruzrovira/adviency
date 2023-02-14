@@ -1,5 +1,6 @@
 import {
   Button,
+  Divider,
   HStack,
   Image,
   Text,
@@ -94,6 +95,17 @@ const ListRegalos: React.FC<props> = ({
           </HStack>
         </HStack>
       ))}
+      <Divider borderColor={"gray.500"} />
+      <Text fontWeight={"bold"}>
+        Total :
+        {new Intl.NumberFormat("en-US", {
+          style: "currency",
+          currency: "USD",
+        }).format(
+          regalos.reduce((cc, item) => item.precio * item.cantidad + cc, 0)
+        )}
+      </Text>
+
       <Button colorScheme={"red"} w="100%" onClick={() => clearRegalos()}>
         Borrar todo los regalos
       </Button>
